@@ -1,3 +1,3 @@
 # calculator
  Simple Calculator in JS 
-[See Demo Here](https://mrzahidali.github.io/calculator/)
+[See Demo Here](https://zahidalidev.github.io/calculator/)
